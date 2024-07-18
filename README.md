@@ -5,3 +5,7 @@ Revit, Navisworks, Fusion, APS, CAD <br>
 architecture, opensource & automation<br>
 <br>
 --> https://symonkipkemei.xyz
+
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
