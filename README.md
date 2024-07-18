@@ -6,6 +6,6 @@ architecture, opensource & automation<br>
 <br>
 --> https://symonkipkemei.xyz
 
-### 📊 Weekly development breakdown
+#### 📊 This week, I spent time on:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
