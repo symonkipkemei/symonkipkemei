@@ -10,9 +10,7 @@ architecture, opensource & automation<br>
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     14 mins         ███████████░░░░░░░░░░░░░░   44.01 %
-XAML     9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-Binary   8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
