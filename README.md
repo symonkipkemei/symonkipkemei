@@ -10,11 +10,11 @@ architecture, opensource & automation<br>
 <!--START_SECTION:waka-->
 
 ```txt
-C#           14 hrs 20 mins  ███████████████████▓░░░░░   78.12 %
-Binary       1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-XAML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+C#           13 hrs 34 mins  ███████████████████▓░░░░░   78.46 %
+Binary       1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+XAML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
