@@ -10,11 +10,11 @@ architecture, opensource & automation<br>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 hrs 24 mins  ███████████████▓░░░░░░░░░   62.68 %
-Other        4 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-C#           4 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-JSON         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript   19 hrs 43 mins  ██████████████░░░░░░░░░░░   55.95 %
+C#           7 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.62 %
+Other        5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+JSON         1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Binary       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
