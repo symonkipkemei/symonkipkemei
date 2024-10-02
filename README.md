@@ -10,8 +10,7 @@ architecture, opensource & automation<br>
 <!--START_SECTION:waka-->
 
 ```txt
-C#     10 mins         ████████████████░░░░░░░░░   64.64 %
-JSON   5 mins          █████████░░░░░░░░░░░░░░░░   35.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
