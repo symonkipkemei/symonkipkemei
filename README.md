@@ -10,11 +10,7 @@ architecture, opensource & automation<br>
 <!--START_SECTION:waka-->
 
 ```txt
-C#       3 hrs 18 mins   ████████████████████████░   96.53 %
-Binary   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
